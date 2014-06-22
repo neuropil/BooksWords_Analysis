@@ -1,0 +1,293 @@
+date,pages,title,media,status
+6/16/2013,25,Think Python,Book,start
+6/16/2013,9,Harper's,Magazine,insitu
+6/17/2013,5,Practical Programming,Book,start
+6/18/2013,27,You,eBook,start
+6/18/2013,25,Practical Programming,Book,insitu
+6/19/2013,30,You,eBook,insitu
+6/20/2013,24,You,eBook,insitu
+6/21/2013,30,You,eBook,insitu
+6/22/2012,48,You,eBook,finish
+6/23/2013,8,Interpreting Hesse,Book,start
+6/23/2013,5,Book Thief,Book,start
+6/23/2013,33,Shining Girls,eBook,start
+6/25/2013,4,Book Thief,Book,insitu
+6/26/2013,15,Shining Girls,eBook,insitu
+6/27/2013,20,Book Thief,Book,insitu
+6/28/2013,14,Shining Girls,eBook,insitu
+6/29/2013,11,Behind the Beautiful Forevers,eBook,insitu
+6/30/2013,15,Altantic Monthly,Magazine,insitu
+7/1/2013,27,Book Thief,Book,insitu
+7/1/2013,14,Shining Girls,eBook,insitu
+7/3/2013,7,The Englebart Hypthesis,eBook,start
+7/4/2013,17,Harper's,Magazine,insitu
+7/4/2013,9,Shining Girls,eBook,insitu
+7/5/2013,30,Book Thief,Book,insitu
+7/6/2013,21,Book Thief,Book,insitu
+7/6/2013,13,Shining Girls,eBook,insitu
+7/7/2013,10,Harper's,Magazine,insitu
+7/7/2013,44,Book Thief,Book,insitu
+7/7/2013,12,Shining Girls,eBook,insitu
+7/8/2013,36,Book Thief,Book,insitu
+7/8/2013,12,Shining Girls,eBook,insitu
+7/9/2013,46,Book Thief,Book,insitu
+7/10/2013,57,Book Thief,Book,insitu
+7/10/2013,21,Shining Girls,eBook,insitu
+7/11/2013,58,Book Thief,Book,insitu
+7/11/2013,38,Shining Girls,eBook,insitu
+7/12/2013,53,Lexicon,eBook,start
+7/13/2013,47,Lexicon,eBook,insitu
+7/14/2013,26,Lexicon,eBook,insitu
+7/16/2013,32,Lexicon,eBook,insitu
+7/17/2013,32,Lexicon,eBook,insitu
+7/18/2013,7,Lexicon,eBook,insitu
+7/19/2013,50,Lexicon,eBook,insitu
+7/20/2013,141,Lexicon,eBook,finish
+7/20/2013,18,Love Minus Eighty,eBook,start
+7/21/2013,42,Book Thief,Book,insitu
+7/21/2013,5,Love Minus Eighty,eBook,insitu
+7/22/2013,33,Love Minus Eighty,eBook,insitu
+7/25/2013,47,Shining Girls,eBook,insitu
+7/26/2013,35,Shining Girls,eBook,insitu
+7/27/2013,32,Shining Girls,eBook,insitu
+7/28/2013,8,Love Minus Eighty,eBook,insitu
+7/28/2013,82,Shining Girls,eBook,finish
+7/29/2013,11,Book Thief,Book,insitu
+7/31/2013,8,Information,eBook,insitu
+8/1/2013,20,Life Stories,eBook,insitu
+8/3/2013,20,Skinny Legs and All,eBook,start
+8/4/2013,41,Book Thief,Book,insitu
+8/4/2013,2,Functional Evolution,Book,start
+8/5/2013,3,Functional Evolution,Book,insitu
+8/5/2013,6,Love Minus Eighty,eBook,insitu
+8/7/2013,60,Love Minus Eighty,eBook,insitu
+8/8/2013,72,Love Minus Eighty,eBook,insitu
+8/9/2013,50,Love Minus Eighty,eBook,insitu
+8/10/2013,152,Love Minus Eighty,eBook,finish
+8/11/2013,3,Functional Evolution,Book,insitu
+8/12/2013,7,Martin Heidegger Bio,Book,start
+8/15/2013,10,Information,eBook,insitu
+8/16/2013,10,Lamb,eBook,start
+8/17/2013,10,Engineering Infinity,eBook,start
+8/18/2013,22,Checklist Manifesto,eBook,start
+8/19/2013,50,Checklist Manifesto,eBook,insitu
+8/20/2013,14,Functional Evolution,Book,insitu
+8/20/2013,32,Checklist Manifesto,eBook,insitu
+8/21/2013,10,Engineering Infinity,eBook,insitu
+8/22/2013,24,Checklist Manifesto,eBook,insitu
+8/24/2013,43,Checklist Manifesto,eBook,insitu
+8/26/2013,50,Checklist Manifesto,eBook,finish
+8/29/2013,9,Selected short stories from Phillip K. Dick,eBook,start
+8/30/3013,5,Bully for Brontosaurous,eBook,start
+8/31/2013,5,Teleprotation Accident ,eBook,start
+8/31/2013,8,Language of Math,Book,start
+9/1/2013,6,Information,eBook,insitu
+9/2/2013,5,Information,eBook,insitu
+9/3/2013,5,Information,eBook,insitu
+9/4/2013,4,"Nerve, muscle and synapse",Book,start
+9/4/2013,20,What Maddening Pursuit,eBook,start
+9/5/2013,9,Instinct,Book,start
+9/5/2013,4,What Maddening Pursuit,eBook,insitu
+9/7/2013,50,Crux,eBook,start
+9/8/2013,50,Crux,eBook,insitu
+9/9/2013,25,Crux,eBook,insitu
+9/10/2013,100,Crux,eBook,insitu
+9/11/2013,100,Crux,eBook,insitu
+9/12/2013,100,Crux,eBook,insitu
+9/13/2013,150,Crux,eBook,insitu
+9/14/2013,10,Harper's,Magazine,insitu
+9/14/2013,99,Crux,eBook,finish
+9/15/2013,15,C,eBook,insitu
+9/16/2013,10,Think Python,Book,insitu
+9/17/2013,10,Think Python,Book,insitu
+9/18/2013,10,Oblivion,Book,start
+9/18/2013,27,Think Python,Book,insitu
+9/19/2013,78,Book Thief,Book,finish
+9/23/2013,10,Devil's Chaplin,eBook,start
+9/24/2013,10,Devil's Chaplin,eBook,insitu
+9/25/2013,12,Devil's Chaplin,eBook,insitu
+9/25/2013,20,Natural Acts,eBook,insitu
+9/26/2013,10,"Nostalgia Factory: Memory, Time and Ageing",eBook,start
+9/27/2013,5,Intuition Pumps and Other Tools for Thinking,eBook,start
+9/28/2013,5,The Mind Within,eBook,start
+9/29/2013,10,Natural Acts,eBook,insitu
+9/30/2013,10,Thinking Fast and Slow,eBook,insitu
+10/1/2013,5,The Mind Within,eBook,insitu
+10/2/2013,5,"Nostalgia Factory: Memory, Time and Ageing",eBook,insitu
+10/3/2013,5,Intuition Pumps and Other Tools for Thinking,eBook,insitu
+10/5/2013,5,Intuition Pumps and Other Tools for Thinking,eBook,insitu
+10/5/2013,10,Daniel Martin,Book,start
+10/6/2013,2,Intuition Pumps and Other Tools for Thinking,eBook,insitu
+10/7/2013,10,Intuition Pumps and Other Tools for Thinking,eBook,insitu
+10/8/2013,38,Dealer's of Lightning: Xerox PARC and the Dawn of Computer Age,Book,start
+10/21/2013,50,"Nostalgia Factory: Memory, Time and Ageing",eBook,insitu
+10/23/2013,50,"Nostalgia Factory: Memory, Time and Ageing",eBook,insitu
+10/26/2013,99,The Circle,eBook,start
+10/26/2013,54,The Bleeding Edge,eBook,start
+10/27/2013,95,The Circle,eBook,insitu
+10/27/2013,50,"Nostalgia Factory: Memory, Time and Ageing",eBook,insitu
+10/28/2013,40,The Circle,eBook,insitu
+10/29/2013,31,The Circle,eBook,insitu
+10/30/2013,20,The Circle,eBook,insitu
+10/30/2013,50,"Nostalgia Factory: Memory, Time and Ageing",eBook,insitu
+10/31/2013,20,The Circle,eBook,insitu
+11/1/2013,90,The Circle,eBook,insitu
+11/2/2013,6,The Circle,eBook,finish
+11/5/2013,20,Lamb,eBook,insitu
+11/7/2013,10,Thinking Fast and Slow,eBook,insitu
+11/17/2013,10,Liver,eBook,start
+11/21/2013,4,The Bleeding Edge,eBook,insitu
+11/24/2013,15,Harper's,Magazine,insitu
+11/24/2013,5,Unbearable Lightness of Being,Book,start
+11/24/2013,10,"Nostalgia Factory: Memory, Time and Ageing",eBook,insitu
+11/25/2013,2,Unbearable Lightness of Being,Book,insitu
+11/25/2013,5,"Nostalgia Factory: Memory, Time and Ageing",eBook,insitu
+11/26/2013,5,"Nostalgia Factory: Memory, Time and Ageing",eBook,insitu
+11/27/2013,15,"Nostalgia Factory: Memory, Time and Ageing",eBook,insitu
+11/27/2013,10,Jonathan Strange and Mr. Norrell,eBook,insitu
+11/28/2013,15,Harper's,Magazine,insitu
+11/28/2013,20,Jonathan Strange and Mr. Norrell,eBook,insitu
+11/29/2013,10,Harper's,Magazine,insitu
+11/29/2013,20,R Graphics Cookbook,Book,start
+11/29/2013,8,Jonathan Strange and Mr. Norrell,eBook,insitu
+11/30/2013,20,"Nostalgia Factory: Memory, Time and Ageing",eBook,finish
+11/30/2013,31,Lamb,eBook,insitu
+12/1/2013,5,Jonathan Strange and Mr. Norrell,eBook,insitu
+12/1/2013,18,Intuition Pumps and Other Tools for Thinking,eBook,insitu
+12/2/2013,8,Intuition Pumps and Other Tools for Thinking,eBook,insitu
+12/2/2013,5,Dealer's of Lightning: Xerox PARC and the Dawn of Computer Age,Book,insitu
+12/3/2013,6,Lamb,eBook,insitu
+12/3/2013,4,C,eBook,insitu
+12/3/2013,10,Intuition Pumps and Other Tools for Thinking,eBook,insitu
+12/4/2013,5,Intuition Pumps and Other Tools for Thinking,eBook,insitu
+12/5/2013,20,Jonathan Strange and Mr. Norrell,eBook,insitu
+12/6/2013,14,Dealer's of Lightning: Xerox PARC and the Dawn of Computer Age,Book,insitu
+12/7/2013,16,Jonathan Strange and Mr. Norrell,eBook,insitu
+12/8/2013,25,Lamb,eBook,insitu
+12/9/2013,20,Intuition Pumps and Other Tools for Thinking,eBook,insitu
+12/10/2013,24,Skinny Legs and All,eBook,insitu
+12/11/2013,56,Lamb,eBook,insitu
+12/12/2013,3,Life at the speed of light,eBook,start
+12/13/2013,11,C,eBook,insitu
+12/14/2013,2,Dealer's of Lightning: Xerox PARC and the Dawn of Computer Age,Book,insitu
+12/20/2013,19,Lamb,eBook,insitu
+12/21/2013,27,Lamb,eBook,insitu
+12/22/2013,48,Lamb,eBook,finish
+12/22/2013,3,Bleeding Edge,eBook,insitu
+12/24/2013,40,Brain surgeon: a doctor's inspiring encounter with mortality,eBook,start
+12/25/2013,45,Brain surgeon: a doctor's inspiring encounter with mortality,eBook,insitu
+12/26/2013,140,Brain surgeon: a doctor's inspiring encounter with mortality,eBook,finish
+12/26/2013,31,Harvey Cushing: a life in surgery,eBook,start
+12/27/2013,16,Harvey Cushing: a life in surgery,eBook,insitu
+12/28/2013,13,Narsisuss and Goldmund,eBook,start
+12/29/2013,54,Harvey Cushing: a life in surgery,eBook,insitu
+12/29/2013,8,Narsisuss and Goldmund,eBook,insitu
+12/30/2013,10,Skinny Legs and All,eBook,insitu
+1/1/2014,22,Skinny Legs and All,eBook,insitu
+1/2/2014,9,Narsisuss and Goldmund,eBook,insitu
+1/3/2014,10,What Maddening Pursuit,eBook,insitu
+1/3/2014,7,Narsisuss and Goldmund,eBook,insitu
+1/5/2014,32,All you need is kill,eBook,start
+1/7/2014,67,All you need is kill,eBook,insitu
+1/8/2014,65,All you need is kill,eBook,insitu
+1/9/2014,23,All you need is kill,eBook,insitu
+1/10/2014,95,All you need is kill,eBook,finish
+1/12/2014,14,Skinny Legs and All,eBook,insitu
+1/13/2014,2,Narsisuss and Goldmund,eBook,insitu
+1/16/2014,26,Alone Together,eBook,start
+1/17/2014,14,Conversations wit David Foster Wallace,eBook,start
+1/19/2014,20,Harper's,Magazine,insitu
+1/19/2014,12,Conversations wit David Foster Wallace,eBook,insitu
+1/19/2014,22,Alone Together,eBook,insitu
+1/21/2014,8,Alone Together,eBook,insitu
+1/21/2014,5,Conversations wit David Foster Wallace,eBook,insitu
+1/23/2014,50,Consider the Lobster,Book,start
+1/25/2014,2,Alone Together,eBook,insitu
+1/26/2014,144,Oblivion,eBook,insitu
+1/26/2014,2,Conversations wit David Foster Wallace,eBook,insitu
+1/27/2014,12,Consider the Lobster,Book,insitu
+1/30/2014,15,Alone Together,eBook,insitu
+1/30/2014,7,Conversations wit David Foster Wallace,eBook,insitu
+2/2/2014,78,Harvey Cushing: a life in surgery,eBook,insitu
+2/3/2014,19,Signal to noise,Book,start
+2/7/2014,9,Alone Together,eBook,insitu
+2/9/2014,5,Alone Together,eBook,insitu
+2/10/2014,20,Signal to noise,Book,insitu
+2/11/2014,27,Data visualizations with D3 cookbook,Book,start
+2/12/2014,21,Alone Together,eBook,insitu
+2/13/2014,13,Floating ,eBook,start
+2/14/2014,23,The last samuri,Book,start
+2/15/2014,53,Floating ,eBook,insitu
+2/16/2014,10,Signal to noise,Book,insitu
+2/19/2014,10,Harper's,Magazine,insitu
+2/19/2014,20,Nature ,Magazine,insitu
+2/23/2014,9,Conversations wit David Foster Wallace,eBook,insitu
+2/24/2014,2,Conversations wit David Foster Wallace,eBook,insitu
+2/25/2014,3,Conversations wit David Foster Wallace,eBook,insitu
+2/26/2014,15,Models of information processing in the basal ganglia,Book,start
+2/28/2014,34,Alone Together,eBook,insitu
+3/1/2014,15,Conversations wit David Foster Wallace,eBook,insitu
+3/2/2014,18,Alone Together,eBook,insitu
+3/3/2014,7,Alone Together,eBook,insitu
+3/5/2014,3,Alone Together,eBook,insitu
+3/6/2014,20,Alone Together,eBook,insitu
+3/7/2014,20,Alone Together,eBook,insitu
+3/8/2014,20,Alone Together,eBook,insitu
+3/9/2014,20,Alone Together,eBook,insitu
+3/10/2014,15,Alone Together,eBook,insitu
+3/16/2014,14,Alone Together,eBook,insitu
+3/17/2014,10,Alone Together,eBook,insitu
+3/18/2014,10,Alone Together,eBook,insitu
+3/19/2014,7,Alone Together,eBook,finish
+3/20/2014,18,Conversations wit David Foster Wallace,eBook,insitu
+3/22/2014,42,Floating ,eBook,insitu
+3/24/2014,25,Floating ,eBook,insitu
+3/25/2014,20,Procedure,Book,start
+3/27/2014,40,Floating ,eBook,insitu
+3/28/2014,28,Floating ,eBook,insitu
+3/31/2014,40,Floating ,eBook,insitu
+4/1/2014,13,Conversations wit David Foster Wallace,eBook,insitu
+4/2/2014,41,Floating ,eBook,insitu
+4/3/2014,2,Floating ,eBook,insitu
+4/5/2014,43,Floating ,eBook,finish
+4/8/2014,25,New Yorker,Magazine,insitu
+4/9/2014,38,Spillover,eBook,start
+4/10/2014,25,New Yorker,Magazine,insitu
+4/11/2014,72,Signal to noise,Book,insitu
+4/12/2014,48,Spillover,eBook,insitu
+4/13/2014,14,Signal to noise,Book,insitu
+4/14/2014,27,Spillover,eBook,insitu
+4/16/2014,5,Spillover,eBook,insitu
+4/18/2014,15,Spillover,eBook,insitu
+4/20/2014,25,New Yorker,Magazine,insitu
+4/21/2014,16,Conversations wit David Foster Wallace,eBook,insitu
+4/22/2014,10,Thinking in Numbers,eBook,start
+4/25/2014,20,Spillover,eBook,insitu
+4/26/2014,6,Spillover,eBook,insitu
+4/27/2014,20,Spillover,eBook,insitu
+4/28/2014,20,Spillover,eBook,insitu
+4/29/2014,19,Spillover,eBook,insitu
+4/30/2014,20,Dealer's of Lightning: Xerox PARC and the Dawn of Computer Age,Book,insitu
+5/1/2014,20,Dealer's of Lightning: Xerox PARC and the Dawn of Computer Age,Book,insitu
+5/2/2014,20,Dealer's of Lightning: Xerox PARC and the Dawn of Computer Age,Book,insitu
+5/4/2014,51,Dealer's of Lightning: Xerox PARC and the Dawn of Computer Age,Book,insitu
+5/5/2014,20,New Yorker,Magazine,insitu
+5/6/2014,21,Spillover,eBook,insitu
+5/7/2014,20,Dealer's of Lightning: Xerox PARC and the Dawn of Computer Age,Book,insitu
+5/8/2014,20,Dealer's of Lightning: Xerox PARC and the Dawn of Computer Age,Book,insitu
+5/9/2014,38,Dealer's of Lightning: Xerox PARC and the Dawn of Computer Age,Book,insitu
+5/10/2014,70,Conversations wit David Foster Wallace,eBook,finish
+5/10/2014,33,Spillover,eBook,insitu
+5/11/2014,20,Dealer's of Lightning: Xerox PARC and the Dawn of Computer Age,Book,insitu
+5/12/2014,20,Dealer's of Lightning: Xerox PARC and the Dawn of Computer Age,Book,insitu
+5/13/2014,20,Dealer's of Lightning: Xerox PARC and the Dawn of Computer Age,Book,insitu
+5/14/2014,3,Dealer's of Lightning: Xerox PARC and the Dawn of Computer Age,Book,insitu
+5/15/2014,20,Spillover,eBook,insitu
+5/16/2014,14,Spillover,eBook,insitu
+5/17/2014,21,Harvey Cushing: a life in surgery,eBook,insitu
+5/20/2014,40,Looking for Alaska,eBook,start
+5/21/2014,70,Looking for Alaska,eBook,insitu
+5/22/2014,40,Looking for Alaska,eBook,insitu
+5/23/2014,46,Looking for Alaska,eBook,insitu
+5/24/2014,44,Looking for Alaska,eBook,finish
+5/24/2014,,Dealer's of Lightning: Xerox PARC and the Dawn of Computer Age,Book,insitu
